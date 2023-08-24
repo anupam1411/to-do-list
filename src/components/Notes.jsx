@@ -18,7 +18,7 @@ function Notes(props) {
 
       <button
         onClick={handleClick}
-        className="delete-button bg-lime-100 border-2 border-orange-500 p-1 h-fit w-fit rounded-md absolute bottom-2 right-2"
+        className="delete-button bg-lime-100 border-2 border-orange-500 p-1 h-fit w-fit rounded-md "
       >
         <DeleteIcon />
       </button>
